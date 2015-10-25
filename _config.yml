@@ -8,7 +8,7 @@ url:         "http://kamilpaszkowski.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
+google_analytics: UA-69262163-1
 google_verification:
 
 # Optional features
@@ -28,7 +28,7 @@ bitbucket_username:
 stackoverflow_id:
 twitter_username: kamil89p
 google_plus_id:
-linkedin_username:
+linkedin_username: kamil89
 angellist_username:
 medium_id:
 bitcoin_url:
